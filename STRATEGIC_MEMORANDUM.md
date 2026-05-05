@@ -44,5 +44,5 @@ The **CBOYD** framework, authored by Eng. Awsan Adel, is not just a local soluti
 هذا المشروع ليس مجرد حل محلي، بل هو جسر سيادي جاهز عالمياً يضع اليمن في مصاف الدول المعتمدة على الاقتصاد الرقمي.
 
 ---
-**Official Repository:** [رابط مستودعك هنا]
+**Official Repository:** [(https://github.com/awsanadelabdulbariahmedsultan-art/Central-Bank-of-Yemen-Digital-CBOYD-)]
 **LinkedIn Author:** [Eng. Awsan Adel Abdulbari Ahmed Sultan]((https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member))
