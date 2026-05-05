@@ -56,3 +56,7 @@ const CBOYD = {
     }
 };
 ```
+
+
+---
+🔗 **Explore the Architect's Journey:** [View Full Curriculum Vitae (CV)](./CV%20CURRICULUM_VITAE.md)
