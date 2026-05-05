@@ -1,8 +1,17 @@
-{
-  "project": "Central Bank of Yemen Digital (CBOYD)",
-  "architect": "Eng. Awsan Adel Abdulbari Ahmed Sultan",
-  "national_id": "01010305468",
-  "establishment_date": "2026-05-05",
+ {
+  "_copyright_notice": "⚖️ ALL RIGHTS RESERVED © 2026. This data architecture is the intellectual property of Eng. Awsan Adel.",
+  "intellectual_property": {
+    "author": "Eng. Awsan Adel Abdulbari Ahmed Sultan",
+    "national_id": "01010305468",
+    "country": "YEMEN",
+    "phone": "+967 777 852 433",
+    "linkedIn": "https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member"
+  },
+  "project_metadata": {
+    "name": "Central Bank of Yemen Digital (CBOYD)",
+    "establishment_date": "2026-05-05",
+    "version": "1.0.0"
+  },
   "data_standards": {
     "currency_unit": "YER_DIGITAL",
     "messaging_protocol": "ISO_20022",
