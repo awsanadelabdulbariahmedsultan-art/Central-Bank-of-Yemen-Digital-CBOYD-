@@ -1,2 +1,58 @@
-# Central-Bank-of-Yemen-Digital-CBOYD-
-The official framework for the Central Bank of Yemen Digital (CBOYD) - A unified national ecosystem to integrate digital wallets and connect with global financial institutions (IMF/World Bank) // الإطار العملي لمشروع البنك المركزي اليمني الرقمي (CBOYD) - منظومة وطنية موحدة لربط المحافظ الإلكترونية وتسهيل التكامل المالي مع المؤسسات الدولية.
+# Central Bank of Yemen Digital (CBOYD) | البنك المركزي اليمني الرقمي
+
+## ⚖️ Intellectual Property & Copyright Notice | إشعار الملكية الفكرية وحقوق النشر
+**This project, its conceptual framework, and its architectural code are the exclusive intellectual property of:**
+**هذا المشروع وإطاره المفاهيمي وأكواده البرمجية هي ملكية فكرية حصرية لـ:**
+
+*   **Lead Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
+*   **المهندس المسؤول:** أوسان عادل عبدالباري أحمد سلطان
+*   **Country:** Yemen | الجمهورية اليمنية
+*   **National ID:** 01010305468
+*   **Phone:** [+967 777 852 433](tel:+967777852433)
+*   **LinkedIn:** [Profile Link](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
+*   **Registration Date:** May 05, 2026 | تاريخ التسجيل: 05 مايو 2026
+
+> **Legal Declaration:** All rights reserved © 2024-2026. Any unauthorized use, reproduction, or international representation of this framework without explicit written consent from Eng. Awsan Adel is strictly prohibited and subject to international intellectual property laws.
+
+---
+
+## 🌐 Overview | نظرة عامة
+**CBOYD** is a strategic national initiative designed to modernize the financial infrastructure of Yemen. It aims to create a unified digital ecosystem that integrates all existing electronic wallets and financial service providers under a single, secure, and regulated framework.
+
+**البنك المركزي اليمني الرقمي (CBOYD)** هو مبادرة وطنية استراتيجية تهدف إلى تحديث البنية التحتية المالية في اليمن، من خلال إنشاء منظومة رقمية موحدة تجمع كافة المحافظ الإلكترونية (جيب، كاش، ون كاش، جوالي، فلوسك، ام فلوس، عدن كاش، شلن، وغيرها) ومزودي الخدمات المالية تحت إطار تنظيمي وأمني واحد مربوط مباشرة بالبنك المركزي.
+
+## 🚀 Key Objectives | الأهداف الرئيسية
+*   **Interoperability:** Seamless fund transfers between different wallets (Jeeb, Cash, One Cash, Jawaly, etc.).
+*   **Global Integration:** Direct linkage with the **IMF** and **World Bank** using **ISO 20022** standards.
+*   **Financial Inclusion:** Reaching unbanked citizens through mobile-first digital solutions.
+*   **Anti-Money Laundering (AML):** Implementing automated AI-driven compliance and e-KYC.
+
+## 🛠 Technical Pillars | الركائز التقنية
+1.  **Unified API Gateway:** High-speed infrastructure for real-time settlement between local PSPs.
+2.  **Blockchain Ledger:** Ensuring transparency and immutability of sovereign financial data.
+3.  **Cross-Border Bridge:** Enabling secure international remittances and international bank connectivity.
+
+## 🗺 Roadmap | خارطة الطريق
+- [x] **Phase 1 (May 05, 2026):** Core Architecture & Intellectual Property Registration.
+- [ ] **Phase 2:** API Specification & Integration with Local Electronic Wallets.
+- [ ] **Phase 3:** Pilot Testing for the Digital Riyal (CBDC) Infrastructure.
+- [ ] **Phase 4:** Global Connectivity with International Financial Systems (IMF/WB).
+
+---
+## 💻 Core System Architecture (Initial Code)
+```javascript
+/**
+ * AUTHOR: Eng. Awsan Adel Abdulbari Ahmed Sultan
+ * ID: 01010305468 | YEMEN
+ * PROJECT: CBOYD CORE ENGINE
+ * DATE: 05.05.2026
+ */
+const CBOYD = {
+    founder: "Eng. Awsan Adel",
+    established: "05-05-2026",
+    status: "Active / Secure",
+    connectInternational: () => {
+        console.log("Linking to IMF & World Bank via ISO 20022...");
+    }
+};
+```
