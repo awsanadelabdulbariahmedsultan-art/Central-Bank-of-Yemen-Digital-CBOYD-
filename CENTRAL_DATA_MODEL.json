@@ -1,0 +1,28 @@
+{
+  "project": "Central Bank of Yemen Digital (CBOYD)",
+  "architect": "Eng. Awsan Adel Abdulbari Ahmed Sultan",
+  "national_id": "01010305468",
+  "last_update": "2026-05-05",
+  "data_structure": {
+    "transaction_object": {
+      "tx_id": "UUID-V4",
+      "sender_wallet": "string (Jeeb, Cash, etc.)",
+      "receiver_wallet": "string",
+      "amount": "decimal",
+      "currency": "YER_DIGITAL",
+      "iso_20022_compliant": true,
+      "security_hash": "SHA-256",
+      "timestamp": "ISO8601"
+    },
+    "user_identity": {
+      "national_verification": "protocol_01010305468",
+      "biometric_linked": true,
+      "kyc_status": "Verified"
+    }
+  },
+  "global_bridge_config": {
+    "target_organizations": ["IMF", "World Bank"],
+    "messaging_standard": "ISO 20022 Financial XML",
+    "encryption": "AES-256-GCM"
+  }
+}
