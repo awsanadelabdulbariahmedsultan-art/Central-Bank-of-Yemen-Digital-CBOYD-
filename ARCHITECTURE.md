@@ -26,3 +26,32 @@ The interface connecting Yemen to the world:
 ---
 ## 📊 Data Flow Diagram (Logic)
 [Wallets] <--> [CBOYD API Gateway] <--> [Central Clearing] <--> [Global Bridge] <--> [IMF/WB]
+
+
+graph TD
+    %% الطبقة السيادية والقيادة
+    A[🏛️ CBOYD Central Authority] -->|Architect: Eng. Awsan Adel| B[🛡️ Sovereign API Gateway]
+
+    %% طبقة المحافظ المحلية
+    subgraph "National Wallet Ecosystem (Local)"
+        C1[📱 Jeeb Wallet]
+        C2[📱 OneCash]
+        C3[📱 Jawaly / Cash]
+    end
+
+    C1 & C2 & C3 -->|OAuth 2.0 / AES-256| B
+
+    %% طبقة المعالجة والرقابة
+    B -->|ISO 20022 Messaging| D{⚙️ Compliance Engine}
+    D -->|Verified| E[(⛓️ National Blockchain Ledger)]
+    D -->|Flagged| F[🚩 Manual Risk Review]
+
+    %% طبقة الربط الدولي
+    E -->|Global Bridge| G[🌐 IMF / World Bank Gateway]
+    G -->|Digital Remittances| H[🏦 International Financial Hubs]
+
+    %% التذييل الفني والتنسيق اللوني
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style E fill:#bfb,stroke:#333,stroke-width:2px
+    style G fill:#fbf,stroke:#333,stroke-width:2px
