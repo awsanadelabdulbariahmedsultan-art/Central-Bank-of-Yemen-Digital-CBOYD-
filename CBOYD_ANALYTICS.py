@@ -5,7 +5,7 @@
 ---------------------------------------------------------
 AUTHOR: Eng. Awsan Adel Abdulbari Ahmed Sultan
 ID: 01010305468 | YEMEN
-LINKEDIN: https://linkedin.com
+LINKEDIN: https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member
 ---------------------------------------------------------
 DESCRIPTION:
 This engine simulates the impact of digital adoption on Yemen's 
