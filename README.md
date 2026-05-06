@@ -60,3 +60,21 @@ const CBOYD = {
 
 ---
 🔗 **Explore the Architect's Journey:** [View Full Curriculum Vitae (CV)](./CV%20CURRICULUM_VITAE.md)
+
+
+---
+## 📊 CBOYD Live Analytics & Risk Modeling | النمذجة التحليلية الحية (2026)
+
+### ⚖️ Intellectual Property Notice | إشعار الملكية البرمجية 2026
+**Author & Lead Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
+**National ID:** 01010305468 | **YEMEN**
+**Copyright © 2026. All Rights Reserved. | حقوق الطبع والنشر محفوظة 2026**
+
+Our sovereign framework includes an interactive predictive engine hosted on **Google Colab**. This model, developed by **Eng. Awsan Adel**, simulates Yemen's digital transformation impacts and predicts financial stability metrics in real-time based on the 2026 financial roadmap.
+
+يتضمن إطارنا السيادي محركاً تحليلياً تفاعلياً مستضافاً على **Google Colab**. يقوم هذا النموذج، الذي طوره **المهندس أوسان عادل**، بمحاكاة آثار التحول الرقمي في اليمن والتنبؤ بمؤشرات الاستقرار المالي لحظياً وفق خارطة الطريق المالية لعام 2026.
+
+[![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1a4lWLr5DbcKqLgsA0QRaB4guBSpklEEc?usp=sharing)
+
+> **💡 Note (2026):** Unauthorized reproduction or use of this proprietary predictive logic without explicit consent from the author is strictly prohibited. For visual charts and static reports, see `CBOYD_Analytics_Report.png`.
+---
