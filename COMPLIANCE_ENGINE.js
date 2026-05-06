@@ -12,7 +12,7 @@ const CBOYD_Compliance = {
         owner: "Eng. Awsan Adel Abdulbari Ahmed Sultan",
         national_id: "01010305468",
         contact_phone: "+967 777 852 433",
-        profile: "https://linkedin.com"
+        profile: "https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=memberm"
     },
     
     standards: ["ISO 20022", "FATF Guidelines", "CBOYD Sovereign Protocol"],
