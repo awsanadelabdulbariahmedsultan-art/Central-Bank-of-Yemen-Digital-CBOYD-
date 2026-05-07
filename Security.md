@@ -19,7 +19,7 @@ If you discover a security vulnerability, please contact the Lead Architect dire
 
 *   **Email:** awsan.sultan@gmail.com
 *   **Direct Phone:** +967 777 852 433
-*   **LinkedIn:** [Eng. Awsan Adel Abdulbari Ahmed Sultan]((https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member))
+*   **LinkedIn:** ( https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member )
 
 ---
 > "Securing the financial future of Yemen through engineering excellence."
