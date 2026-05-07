@@ -9,7 +9,7 @@
 ## 🔐 Security Protocols | بروتوكولات الأمان
 1. **End-to-End Encryption:** All financial messages are encrypted using **AES-256-GCM**.
 2. **Blockchain Immutability:** Transactions are recorded on a secure ledger to prevent data tampering.
-3. **API Security:** Mandatory **OAuth 2.0** and **mTLS** for all local wallet integrations (Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos etc.).
+3. **API Security:** Mandatory **OAuth 2.0** and **mTLS** for all local wallet integrations (Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos (Kurimi), Jawaly, Mobile Money etc.).
 4. **AI-Compliance:** Real-time AML (Anti-Money Laundering) scanning via the CBOYD Compliance Engine.
 
 ---
