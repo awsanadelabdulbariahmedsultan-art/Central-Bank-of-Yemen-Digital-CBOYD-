@@ -37,7 +37,7 @@ Eng. Awsan Adel's architecture provides a three-tier solution:
 
 ## 5. 🛠 Implementation Roadmap | خارطة التنفيذ
 - **Phase I (Current):** System Architecture & IP Documentation.
-- **Phase II:** Technical integration with local PSPs (Jeeb, Cash, etc.).
+- **Phase II:** Technical integration with local PSPs (Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos (Kurimi), Jawaly, Mobile Money etc.).
 - **Phase III:** Pilot testing of the International Gateway with Global Partners.
 
 ---
