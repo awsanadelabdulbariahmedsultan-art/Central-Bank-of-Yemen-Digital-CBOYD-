@@ -24,7 +24,7 @@ To ensure seamless integration with the **IMF** and **World Bank** messaging sys
 
 ## 🛡️ 3. RegTech & Anti-Money Laundering (AML) | تكنولوجيا الرقابة ومكافحة غسل الأموال
 CBOYD addresses the core concerns of the **IMF** regarding financial transparency in Yemen:
-*   **AI-Audit:** Real-time monitoring of fund flows between local wallets (Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos, Mobile Money etc.).
+*   **AI-Audit:** Real-time monitoring of fund flows between local wallets (Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos (Kurimi), Jawaly, Mobile Money etc.).
 *   **Proof of Identity:** Mandatory e-KYC linked to the national identity protocol (01010305468).
 
 النظام يعالج مخاوف صندوق النقد الدولي عبر توفير رقابة لحظية مدعومة بالذكاء الاصطناعي لمكافحة غسل الأموال والتحقق من الهوية.
