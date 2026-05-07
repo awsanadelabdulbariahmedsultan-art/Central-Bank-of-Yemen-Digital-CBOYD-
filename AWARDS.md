@@ -35,7 +35,7 @@ A comprehensive decentralized financial ecosystem for digital assets and blockch
 
 ---
 ## 🔍 Professional Synergy | التكامل المهني
-Eng. Awsan Adel leverages his **Petroleum Engineering** background to innovate **Real-World Asset (RWA) Tokenization**. By bridging the energy sector with Blockchain, he provides a unique model for economic stability and sovereign digital finance.
+Eng. Awsan Adel Abdulbari Ahmed Sultan leverages his **Petroleum Engineering** background to innovate **Real-World Asset (RWA) Tokenization**. By bridging the energy sector with Blockchain, he provides a unique model for economic stability and sovereign digital finance.
 
 يسخر المهندس أوسان عادل خلفيته في **هندسة النفط** لابتكار حلول "ترميز الأصول الحقيقية" (RWA). عبر ربط قطاع الطاقة بتقنيات البلوكشين، يقدم نموذجاً فريداً للاستقرار الاقتصادي والتمويل الرقمي السيادي.
 
