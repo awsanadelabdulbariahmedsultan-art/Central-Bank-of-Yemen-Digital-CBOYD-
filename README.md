@@ -1,5 +1,4 @@
-# Central Bank of Yemen Digital (CBOYD) | 
-البنك المركزي اليمني الرقمي
+# Central Bank of Yemen Digital (CBOYD) | البنك المركزي اليمني الرقمي
 
 ## ⚖️ Intellectual Property & Copyright Notice | إشعار الملكية الفكرية وحقوق النشر
 **This project, its conceptual framework, and its architectural code are the exclusive intellectual property of:**
