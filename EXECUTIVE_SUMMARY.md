@@ -20,7 +20,7 @@ Establishing a unified national digital financial infrastructure that bridges th
 
 **المشكلات المعالجة:** أزمة السيولة النقدية، تشتت المحافظ الرقمية وعدم ترابطها، والعزلة عن النظام المالي الدولي.
 
-## 3. 🚀 The Solution: CBOYD Framework | الحل: منظومة CBOYD
+## 3. 🚀 The Solution: CBOYD Framework | منظومة CBOYD
 Eng. Awsan Adel's architecture provides a three-tier solution:
 1.  **Unified National Switch:** Seamless fund movement between all Yemeni wallets.
 2.  **Digital Riyal (CBDC):** A sovereign digital currency to stabilize transactions.
