@@ -1,12 +1,17 @@
 # 📄 Curriculum Vitae | السيرة الذاتية
 
 ## 👤 Personal Information | البيانات الشخصية
+
 **Name:** Eng. Awsan Adel Abdulbari Ahmed Sultan
+
 **Title:** Petroleum Engineer | Google Developer | Senior Google Consultant
+
 **Location:** 📍 Sana'a, Al Asbahi .
+
 **Phone:** 📞 [+967 777 852 433](tel:+967777852433 / +967776633003)
 
 **Email:** ✉️ awsan.sultan@gmail.com
+
 **Profiles:** [LinkedIn](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member
 ) | [GitHub](https://github.com/awsanadelabdulbariahmedsultan-art/Central-Bank-of-Yemen-Digital-CBOYD-)
 
