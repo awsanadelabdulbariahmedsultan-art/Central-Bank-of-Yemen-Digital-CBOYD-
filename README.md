@@ -2,14 +2,19 @@
 
 ## ⚖️ Intellectual Property & Copyright Notice | إشعار الملكية الفكرية وحقوق النشر
 **This project, its conceptual framework, and its architectural code are the exclusive intellectual property of:**
+
 **هذا المشروع وإطاره المفاهيمي وأكواده البرمجية هي ملكية فكرية حصرية لـ:**
 
 *   **Lead Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
 *   **المهندس المسؤول:** أوسان عادل عبدالباري أحمد سلطان
 *   **Country:** Yemen | الجمهورية اليمنية
+*   
 *   **National ID:** 01010305468
-*   **Phone:** [+967 777 852 433](tel:+967777852433)
+*   
+*   **Phone:** [+967 777 852 433 / +967 776 633 003]
+*   
 *   **LinkedIn:** [Profile Link](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
+*   
 *   **Registration Date:** May 05, 2026 | تاريخ التسجيل: 05 مايو 2026
 
 > **Legal Declaration:** All rights reserved © 2026. Any unauthorized use, reproduction, or international representation of this framework without explicit written consent from Eng. Awsan Adel is strictly prohibited and subject to international intellectual property laws.
@@ -77,8 +82,11 @@ const CBOYD = {
 ## 📊 CBOYD Live Analytics & Risk Modeling | النمذجة التحليلية الحية (2026)
 
 ### ⚖️ Intellectual Property Notice | إشعار الملكية البرمجية 2026
+
 **Author & Lead Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
+
 **National ID:** 01010305468 | **YEMEN**
+
 **Copyright © 2026. All Rights Reserved.**
 
 [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1a4lWLr5DbcKqLgsA0QRaB4guBSpklEEc?usp=sharing)
