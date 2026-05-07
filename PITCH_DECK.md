@@ -33,6 +33,7 @@
 ## 💡 Slide 3: The CBOYD Solution | الحل المتكامل
 
 ### **From Isolated Islands to a Unified Financial Stream**
+
 *   **Visual Chart:** *The Digital Bridge Architecture.*
 *   **How it works:** CBOYD acts as a **Central Hub** connecting:
     1.  **Local E-Wallets** (Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos (Kurimi), Jawaly, Mobile Money etc.)
@@ -55,6 +56,7 @@
 ## 🛡️ Slide 4: Global Integrity & Compliance | محاكاة الامتثال والربط الدولي
 
 ### **Restoring International Trust via ISO 20022**
+
 *   **Visual Chart:** *The Trust Index Projection.*
 *   **Simulated Stats:**
     *   **Verification Time:** From **5 Days** ➡️ **5 Seconds** (via AI-Audit).
@@ -79,6 +81,7 @@
 ## 🛢️ Slide 5: Energy Sovereign Link | ترميز أصول الطاقة
 
 ### **Securing the Currency with Real Assets**
+
 *   **Visual Chart:** *The Hard Currency Cycle.*
 *   **The Concept:** Linking every "Produced Oil Barrel" to a "Digital Token" on the Blockchain.
 *   **Economic Impact:** Every dollar from oil exports is documented in real-time to stabilize the exchange rate of the Yemeni Riyal.
