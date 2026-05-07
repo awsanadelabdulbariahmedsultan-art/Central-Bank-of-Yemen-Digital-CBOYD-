@@ -30,7 +30,7 @@ The interface connecting Yemen to the world:
 
 graph TD
     %% الطبقة السيادية والقيادة
-    A[🏛️ CBOYD Central Authority] -->|Architect: Eng. Awsan Adel| B[🛡️ Sovereign API Gateway]
+    A[🏛️ CBOYD Central Authority] -->|Architect: Eng. Awsan Adel Abdulbari Ahmed Sultan| B[🛡️ Sovereign API Gateway]
 
     %% طبقة المحافظ المحلية
     subgraph "National Wallet Ecosystem (Local)"
