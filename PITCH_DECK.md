@@ -58,7 +58,7 @@
 | Timeline | Milestone | Goal |
 | :--- | :--- | :--- |
 | **Q2 2026** | **Foundation** | IP Protection & Technical Protocol Launch. |
-| **Q3 2026** | **Sandbox** | Pilot integration with the Top 3 Yemeni E-Wallets. |
+| **Q3 2026** | **Sandbox** | Pilot integration with the Top 10 Yemeni E-Wallets. |
 | **Q1 2027** | **Global Link** | Official Technical Review with IMF/World Bank experts. |
 
 ---
