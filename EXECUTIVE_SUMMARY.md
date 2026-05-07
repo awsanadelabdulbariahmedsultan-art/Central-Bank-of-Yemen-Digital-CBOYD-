@@ -5,7 +5,9 @@
 
 **Founder & Chief Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
 
-**National ID:** 01010305468 | **Date:** May 05, 2026
+**National ID:** 01010305468 | 
+
+**Date:** May 05, 2026
 
 **LinkedIn:** [Eng. Awsan Adel Abdulbari Ahmed Sultan]((https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member))
 
