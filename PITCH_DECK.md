@@ -31,6 +31,7 @@
 
 
 ## 💡 Slide 3: The CBOYD Solution | الحل المتكامل
+
 ### **From Isolated Islands to a Unified Financial Stream**
 *   **Visual Chart:** *The Digital Bridge Architecture.*
 *   **How it works:** CBOYD acts as a **Central Hub** connecting:
@@ -52,6 +53,7 @@
 
 
 ## 🛡️ Slide 4: Global Integrity & Compliance | محاكاة الامتثال والربط الدولي
+
 ### **Restoring International Trust via ISO 20022**
 *   **Visual Chart:** *The Trust Index Projection.*
 *   **Simulated Stats:**
@@ -75,6 +77,7 @@
 
 
 ## 🛢️ Slide 5: Energy Sovereign Link | ترميز أصول الطاقة
+
 ### **Securing the Currency with Real Assets**
 *   **Visual Chart:** *The Hard Currency Cycle.*
 *   **The Concept:** Linking every "Produced Oil Barrel" to a "Digital Token" on the Blockchain.
