@@ -72,14 +72,4 @@
 *   **Closing Statement:**
     ***"CBOYD: Building a resilient, institutional, and secure financial future for Yemen."***
 
-
-
-## 🎯 Slide 7: The Call to Action | الخاتمة والدعوة للعمل
-### **"Yemen is ready for Digital Transformation. We have the Architecture; we need the Strategic Decision."**
-
-*   **Official Repository:** [GitHub - CBOYD Project]((https://github.com/awsanadelabdulbariahmedsultan-art/Central-Bank-of-Yemen-Digital-CBOYD-))
-*   **Professional Profile:** [LinkedIn - Eng. Awsan Adel Abdulbari Ahmed Sultan]((https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member))
-*   **Closing Statement:** 
-> **"CBOYD: Building a financial future that cannot be breached."**
-
 ---
