@@ -19,7 +19,7 @@
 ## 🌐 Overview | نظرة عامة
 **CBOYD** is a strategic national initiative designed to modernize the financial infrastructure of Yemen. It aims to create a unified digital ecosystem that integrates all existing electronic wallets and financial service providers under a single, secure, and regulated framework.
 
-**البنك المركزي اليمني الرقمي (CBOYD)** هو مبادرة وطنية استراتيجية تهدف إلى تحديث البنية التحتية المالية في اليمن، من خلال إنشاء منظومة رقمية موحدة تجمع كافة المحافظ الإلكترونية (جيب، كاش، ون كاش، جوالي، فلوسك، ام فلوس، عدن كاش، شلن، وغيرها) ومزودي الخدمات المالية تحت إطار تنظيمي وأمني واحد مربوط مباشرة بالبنك المركزي.
+**البنك المركزي اليمني الرقمي (CBOYD)** هو مبادرة وطنية استراتيجية تهدف إلى تحديث البنية التحتية المالية في اليمن، من خلال إنشاء منظومة رقمية موحدة تجمع كافة المحافظ الإلكترونية (جيب، كاش، ون كاش، جوالي، فلوسك، موبايل موني، ام فلوس، عدن كاش، شلن، وغيرها) ومزودي الخدمات المالية تحت إطار تنظيمي وأمني واحد مربوط مباشرة بالبنك المركزي.
 
 ## 🚀 Key Objectives | الأهداف الرئيسية
 *   **Interoperability:** Seamless fund transfers between different wallets (Jeeb, Cash, One Cash, Jawaly, etc.).
