@@ -7,14 +7,17 @@
 
 *   **Lead Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
 *   **المهندس المسؤول:** أوسان عادل عبدالباري أحمد سلطان
-*   **Country:** Yemen | الجمهورية اليمنية
-*   
+  
+*   **Country:** Yemen |
+*   الجمهورية اليمنية
+
+   
 *   **National ID:** 01010305468
-*   
+  
 *   **Phone:** [+967 777 852 433 / +967 776 633 003]
-*   
+  
 *   **LinkedIn:** [Profile Link](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
-*   
+  
 *   **Registration Date:** May 05, 2026 | تاريخ التسجيل: 05 مايو 2026
 
 > **Legal Declaration:** All rights reserved © 2026. Any unauthorized use, reproduction, or international representation of this framework without explicit written consent from Eng. Awsan Adel is strictly prohibited and subject to international intellectual property laws.
