@@ -37,6 +37,8 @@
 
 
 
+
+
 ## 🛡️ Slide 4: Global Integrity & Compliance | محاكاة الامتثال والربط الدولي
 ### **Restoring International Trust via ISO 20022**
 *   **Visual Chart:** *The Trust Index Projection.*
@@ -50,6 +52,8 @@
 
 
 
+
+
 ## 🛢️ Slide 5: Energy Sovereign Link | ترميز أصول الطاقة
 ### **Securing the Currency with Real Assets**
 *   **Visual Chart:** *The Hard Currency Cycle.*
@@ -58,6 +62,13 @@
 *   **Message:** "A Currency backed by Energy, secured by Technology."
 
 ---
+
+
+
+
+
+
+
 
 
 
