@@ -22,6 +22,7 @@
 
 ---
 
+
 ## 💡 Slide 3: The CBOYD Solution | الحل المتكامل
 ### **From Isolated Islands to a Unified Financial Stream**
 *   **Visual Chart:** *The Digital Bridge Architecture.*
@@ -33,6 +34,7 @@
 
 ---
 
+
 ## 🛡️ Slide 4: Global Integrity & Compliance | محاكاة الامتثال والربط الدولي
 ### **Restoring International Trust via ISO 20022**
 *   **Visual Chart:** *The Trust Index Projection.*
@@ -42,6 +44,7 @@
 *   **Outcome:** Compliance-by-design that reopens **Correspondent Banking** doors.
 
 ---
+
 
 ## 🛢️ Slide 5: Energy Sovereign Link | ترميز أصول الطاقة
 ### **Securing the Currency with Real Assets**
