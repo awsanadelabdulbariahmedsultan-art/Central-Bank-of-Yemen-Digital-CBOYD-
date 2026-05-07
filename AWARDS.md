@@ -29,6 +29,8 @@ The unified national framework for integrating electronic wallets and global fin
 
 Directly integrated with AAS protocols to secure energy-backed digital currency.
 
+🔗 [View Project](https://github.com/awsanadelabdulbariahmedsultan-art/Central-Bank-of-Yemen-Digital-CBOYD-)
+
 
 
 ### 3. Awsan Adel Sultan Server (AASS)
