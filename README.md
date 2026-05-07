@@ -67,6 +67,13 @@ const CBOYD = {
 ### 📊 System Stability & Risk Preview
 ![Analytics Report](CBOYD_Analytics_Report.png)
 
+### 📊 CBOYD Analytics & Risk Prediction
+> Our framework includes a **Python-based predictive engine** that simulates digital currency adoption impacts on Yemen's economic stability, ensuring **data-driven decision-making**.
+
+يتضمن إطارنا العملي محركاً تنبؤياً قائماً على لغة بايثون يحاكي آثار تبني العملة الرقمية على الاستقرار الاقتصادي في اليمن، مما يضمن اتخاذ قرارات مبنية على البيانات.
+
+
+
 ## 📊 CBOYD Live Analytics & Risk Modeling | النمذجة التحليلية الحية (2026)
 
 ### ⚖️ Intellectual Property Notice | إشعار الملكية البرمجية 2026
