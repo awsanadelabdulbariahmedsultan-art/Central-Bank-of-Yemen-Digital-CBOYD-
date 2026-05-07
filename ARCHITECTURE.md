@@ -7,7 +7,7 @@
 ## 🏗️ System Layers | طبقات النظام
 
 ### 1. Local Wallets Layer (The Edge)
-This layer represents the integration point for all Yemeni Digital Wallets (Jeeb, Cash, OneCash, etc.). 
+This layer represents the integration point for all Yemeni Digital Wallets (Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos (Kurimi), Jawaly, Mobile Money etc.). 
 - **Protocol:** RESTful APIs / Webhooks.
 - **Security:** OAuth2 + mTLS.
 
