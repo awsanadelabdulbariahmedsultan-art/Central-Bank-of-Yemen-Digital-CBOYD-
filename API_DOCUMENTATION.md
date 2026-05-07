@@ -1,8 +1,12 @@
 # 🚀 CBOYD API Documentation v1.0 | توثيق بروتوكول الربط الرقمي
 
 ## 🛡️ Identity & Authorization | الهوية والتفويض
+
 **Lead Architect & Founder:** Eng. Awsan Adel Abdulbari Ahmed Sultan
-**National ID:** 01010305468 | **Release Date:** 05-05-2026
+
+**National ID:** 01010305468 | 
+
+**Release Date:** 05-05-2026
 
 To integrate with the **Central Bank of Yemen Digital (CBOYD)**, all Payment Service Providers (PSPs) like Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos (Kurimi), Jawaly, Mobile Money and others must use **OAuth 2.0** with a Central Private Key issued by Eng. Awsan Adel Abdulbari Ahmed Sultan.
 
