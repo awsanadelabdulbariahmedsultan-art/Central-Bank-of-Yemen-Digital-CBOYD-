@@ -34,7 +34,7 @@ graph TD
 
     %% طبقة المحافظ المحلية
     subgraph "National Wallet Ecosystem (Local)"
-        C1[📱 Jeeb Wallet]
+        C1[📱 Jaib Wallet]
         C2[📱 OneCash]
         C3[📱 Jawaly / Cash]
     end
