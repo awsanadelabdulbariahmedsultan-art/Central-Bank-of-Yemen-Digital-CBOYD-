@@ -26,7 +26,7 @@
 ### **From Isolated Islands to a Unified Financial Stream**
 *   **Visual Chart:** *The Digital Bridge Architecture.*
 *   **How it works:** CBOYD acts as a **Central Hub** connecting:
-    1.  **Local E-Wallets** (Kuraimi, Jeeb, Jawaly, etc.)
+    1.  **Local E-Wallets** (Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos (Kurimi), Jawaly, etc.)
     2.  **Commercial Banks**
     3.  **Sovereign Energy Revenues**
 *   **Result:** Real-time liquidity settlement on a single CBY Dashboard.
