@@ -44,4 +44,4 @@ Eng. Awsan Adel Abdulbari Ahmed Sultan leverages his **Petroleum Engineering** b
 - **Phone:** +967 777 852 433
 - **LinkedIn:** [Eng. Awsan Adel Abdulbari Ahmed Sultan]([(https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member))
 > "Engineering sovereign solutions to revolutionize the financial future of Yemen."
-> **Eng. Awsan Adel Abdulbari Ahmed Sultan**
+> **Eng. Awsan Adel Abdulbari Sultan**
