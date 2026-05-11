@@ -26,6 +26,14 @@
 
 **البنك المركزي اليمني الرقمي (CBOYD)** هو مبادرة وطنية استراتيجية تهدف إلى تحديث البنية التحتية المالية في اليمن، من خلال إنشاء منظومة رقمية موحدة تجمع كافة المحافظ الإلكترونية (جيب، كاش، ون كاش، جوالي، فلوسك، موبايل موني، ام فلوس، عدن كاش، شلن، وغيرها) ومزودي الخدمات المالية تحت إطار تنظيمي وأمني واحد مربوط مباشرة بالبنك المركزي.
 
+---
+
+### 🔗 الأنظمة المرتبطة (Integrated Systems)
+هذا المشروع يتكامل برمجياً مع نظام الدفع الأساسي:
+*   **[Global-Payment-Orchestration-AwsanAdelSultanPay]((https://github.com/awsanadelabdulbariahmedsultan-art/Global-Payment-Orchestration-AwsanAdelSultanPay))** - نظام الدفع الرقمي المتكامل.
+
+---
+
 ## 🚀 Key Objectives | الأهداف الرئيسية
 *   **Interoperability:** Seamless fund transfers between different wallets (Jaib, Cash, Onecash, Floosak, Shilling, Aden Cash, Mahfathati, Amfloos (Kurimi), Jawaly, Mobile Money etc.).
 *   **Global Integration:** Direct linkage with the **IMF** and **World Bank** using **ISO 20022** standards.
