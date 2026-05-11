@@ -29,9 +29,9 @@
 ---
 
 ### 🔗 الأنظمة المرتبطة (Integrated Systems)
+
 هذا المشروع يتكامل برمجياً مع نظام الدفع الأساسي:
-*   **[Global-Payment-Orchestration-AwsanAdelSultanPay]((https://github.com/awsanadelabdulbariahmedsultan-art/Global-Payment-Orchestration-AwsanAdelSultanPay))
-** - نظام الدفع الرقمي المتكامل.
+* **[Global-Payment-Orchestration-AwsanAdelSultanPay]([https://github.com](https://github.com/awsanadelabdulbariahmedsultan-art/Global-Payment-Orchestration-AwsanAdelSultanPay))** - نظام الدفع الرقمي المتكامل.
 
 ---
 
